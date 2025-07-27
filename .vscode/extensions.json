@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-vscode.powershell",
+        "chouzz.vscode-better-align",
+        "eamodio.gitlens",
+        "gruntfuggly.todo-tree",
+        "louiswt.regexp-preview",
+        "oderwat.indent-rainbow",
+        "pspester.pester-test",
+        "tylerleonhardt.vscode-inline-values-powershell",
+        "usernamehw.errorlens",
+        "vscode-icons-team.vscode-icons"
+    ]
+}

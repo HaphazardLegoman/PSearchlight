@@ -1,0 +1,33 @@
+{
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[powershell]": {
+        "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?"
+    },
+    "editor.defaultFoldingRangeProvider": "ms-vscode.powershell",
+    "editor.defaultFormatter": "ms-vscode.powershell",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.minimap.autohide": "mouseover",
+    "powershell.analyzeOpenDocumentsOnly": true,
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "powershell.codeFormatting.avoidSemicolonsAsLineTerminators": true,
+    "powershell.codeFormatting.newLineAfterCloseBrace": false,
+    "powershell.codeFormatting.newLineAfterOpenBrace": false,
+    "powershell.codeFormatting.openBraceOnSameLine": true,
+    "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline",
+    "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+    "powershell.codeFormatting.useConstantStrings": true,
+    "powershell.codeFormatting.whitespaceBetweenParameters": true,
+    "powershell.developer.editorServicesLogLevel": "Warning",
+    "powershell.enableReferencesCodeLens": false,
+    "powershell.integratedConsole.suppressStartupBanner": true,
+    "powershell.powerShellDefaultVersion": "PowerShell (x64)",
+    "powershell.scriptAnalysis.enable": true,
+    "powershell.scriptAnalysis.settingsPath": ".vscode\\PSScriptAnalyzerSettings.psd1",
+    "window.title": "${dirty}${separator}${rootName}${separator}${profileName}",
+    "window.titleSeparator": " | ",
+    "workbench.sideBar.location": "right"
+}
